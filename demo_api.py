@@ -1,5 +1,5 @@
-from fastapi import FastAPI
-from  fastapi import HTTPException
+from fastapi import FastAPI, File
+from  fastapi import HTTPException,status,UploadFile
 from pydantic import BaseModel, Field, computed_field
 import pickle
 from pydantic import BaseModel,Field
@@ -15,12 +15,11 @@ dataset = load_dataset("json", data_files="foods.json")
 def read_root():
     return {"message": "Welcome to the FPS Prediction API! Use the /predict endpoint to get FPS predictions based on your input data."}
 
-@app.get("/predict")
-def predict():
-    # Randomly select a sample from the dataset
+@app.post("/predict")
+def predict(file: UploadFile = File(...)):
+  
     sample = random.choice(dataset['train'])
-    
-    # Extract relevant fields from the sample
+
     result = {
         "name": sample.get("name", "Unknown"),
         "category": sample.get("category", "Unknown"),
@@ -30,6 +29,11 @@ def predict():
         "carbs_g": sample.get("carbs_g", 0.0),
         "fats_g": sample.get("fats_g", 0.0)
     }
+    if not result:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND, 
+            detail="not in valid format"
+        )
     
     return result
 
