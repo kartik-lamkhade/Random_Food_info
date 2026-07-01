@@ -13,7 +13,7 @@ dataset = load_dataset("json", data_files="foods.json")
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the FPS Prediction API! Use the /predict endpoint to get FPS predictions based on your input data."}
+    return {"message": "Welcome to the Random Food Properties Prediction API. The /predict endpoint accepts an image input and returns randomized property predictions."}
 
 @app.post("/predict")
 def predict(file: UploadFile = File(...)):
