@@ -1,4 +1,4 @@
 uvicorn
 datasets
 fastapi
-python-multipar
+python-multipart
