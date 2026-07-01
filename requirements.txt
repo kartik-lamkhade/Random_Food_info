@@ -1,4 +1,3 @@
 uvicorn
 datasets
-random
 fastapi
