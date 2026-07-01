@@ -1,0 +1,1172 @@
+[
+  {
+    "name": "Banana",
+    "category": "Fruit",
+    "per_g": 118,
+    "calories_kcal": 115.1,
+    "protein_g": 0.9,
+    "carbs_g": 27.1,
+    "fats_g": 0.3
+  },
+  {
+    "name": "Apple",
+    "category": "Fruit",
+    "per_g": 182,
+    "calories_kcal": 94.6,
+    "protein_g": 0.5,
+    "carbs_g": 25.1,
+    "fats_g": 0.3
+  },
+  {
+    "name": "Orange",
+    "category": "Fruit",
+    "per_g": 131,
+    "calories_kcal": 61.6,
+    "protein_g": 1.2,
+    "carbs_g": 15.4,
+    "fats_g": 0.2
+  },
+  {
+    "name": "Mango",
+    "category": "Fruit",
+    "per_g": 165,
+    "calories_kcal": 99.0,
+    "protein_g": 1.4,
+    "carbs_g": 24.7,
+    "fats_g": 0.6
+  },
+  {
+    "name": "Grapes",
+    "category": "Fruit",
+    "per_g": 92,
+    "calories_kcal": 62.0,
+    "protein_g": 0.6,
+    "carbs_g": 16.1,
+    "fats_g": 0.3
+  },
+  {
+    "name": "Strawberry",
+    "category": "Fruit",
+    "per_g": 100,
+    "calories_kcal": 32.0,
+    "protein_g": 0.7,
+    "carbs_g": 7.7,
+    "fats_g": 0.3
+  },
+  {
+    "name": "Watermelon",
+    "category": "Fruit",
+    "per_g": 152,
+    "calories_kcal": 46.0,
+    "protein_g": 0.9,
+    "carbs_g": 11.6,
+    "fats_g": 0.2
+  },
+  {
+    "name": "Pineapple",
+    "category": "Fruit",
+    "per_g": 165,
+    "calories_kcal": 82.5,
+    "protein_g": 0.9,
+    "carbs_g": 21.6,
+    "fats_g": 0.2
+  },
+  {
+    "name": "Papaya",
+    "category": "Fruit",
+    "per_g": 145,
+    "calories_kcal": 59.0,
+    "protein_g": 0.9,
+    "carbs_g": 14.9,
+    "fats_g": 0.2
+  },
+  {
+    "name": "Guava",
+    "category": "Fruit",
+    "per_g": 100,
+    "calories_kcal": 68.0,
+    "protein_g": 2.6,
+    "carbs_g": 14.3,
+    "fats_g": 1.0
+  },
+  {
+    "name": "Kiwi",
+    "category": "Fruit",
+    "per_g": 76,
+    "calories_kcal": 42.0,
+    "protein_g": 0.8,
+    "carbs_g": 10.1,
+    "fats_g": 0.4
+  },
+  {
+    "name": "Pomegranate",
+    "category": "Fruit",
+    "per_g": 100,
+    "calories_kcal": 83.0,
+    "protein_g": 1.7,
+    "carbs_g": 18.7,
+    "fats_g": 1.2
+  },
+  {
+    "name": "Pear",
+    "category": "Fruit",
+    "per_g": 178,
+    "calories_kcal": 101.0,
+    "protein_g": 0.6,
+    "carbs_g": 27.1,
+    "fats_g": 0.2
+  },
+  {
+    "name": "Peach",
+    "category": "Fruit",
+    "per_g": 150,
+    "calories_kcal": 58.5,
+    "protein_g": 1.4,
+    "carbs_g": 14.3,
+    "fats_g": 0.4
+  },
+  {
+    "name": "Blueberries",
+    "category": "Fruit",
+    "per_g": 100,
+    "calories_kcal": 57.0,
+    "protein_g": 0.7,
+    "carbs_g": 14.5,
+    "fats_g": 0.3
+  },
+  {
+    "name": "Avocado",
+    "category": "Fruit",
+    "per_g": 150,
+    "calories_kcal": 240.0,
+    "protein_g": 3.0,
+    "carbs_g": 12.8,
+    "fats_g": 22.0
+  },
+  {
+    "name": "Lemon",
+    "category": "Fruit",
+    "per_g": 58,
+    "calories_kcal": 17.0,
+    "protein_g": 0.6,
+    "carbs_g": 5.4,
+    "fats_g": 0.2
+  },
+  {
+    "name": "Cherry",
+    "category": "Fruit",
+    "per_g": 100,
+    "calories_kcal": 63.0,
+    "protein_g": 1.1,
+    "carbs_g": 16.0,
+    "fats_g": 0.2
+  },
+  {
+    "name": "Fig",
+    "category": "Fruit",
+    "per_g": 50,
+    "calories_kcal": 37.0,
+    "protein_g": 0.4,
+    "carbs_g": 9.6,
+    "fats_g": 0.2
+  },
+  {
+    "name": "Chikoo (Sapota)",
+    "category": "Fruit",
+    "per_g": 100,
+    "calories_kcal": 83.0,
+    "protein_g": 0.4,
+    "carbs_g": 19.9,
+    "fats_g": 1.1
+  },
+  {
+    "name": "Broccoli",
+    "category": "Vegetable",
+    "per_g": 91,
+    "calories_kcal": 31.0,
+    "protein_g": 2.6,
+    "carbs_g": 6.0,
+    "fats_g": 0.3
+  },
+  {
+    "name": "Spinach",
+    "category": "Vegetable",
+    "per_g": 30,
+    "calories_kcal": 7.0,
+    "protein_g": 0.9,
+    "carbs_g": 1.1,
+    "fats_g": 0.1
+  },
+  {
+    "name": "Carrot",
+    "category": "Vegetable",
+    "per_g": 61,
+    "calories_kcal": 25.0,
+    "protein_g": 0.6,
+    "carbs_g": 5.8,
+    "fats_g": 0.1
+  },
+  {
+    "name": "Potato",
+    "category": "Vegetable",
+    "per_g": 173,
+    "calories_kcal": 161.0,
+    "protein_g": 4.3,
+    "carbs_g": 36.6,
+    "fats_g": 0.2
+  },
+  {
+    "name": "Sweet Potato",
+    "category": "Vegetable",
+    "per_g": 130,
+    "calories_kcal": 112.0,
+    "protein_g": 2.0,
+    "carbs_g": 26.2,
+    "fats_g": 0.1
+  },
+  {
+    "name": "Tomato",
+    "category": "Vegetable",
+    "per_g": 123,
+    "calories_kcal": 22.0,
+    "protein_g": 1.1,
+    "carbs_g": 4.8,
+    "fats_g": 0.2
+  },
+  {
+    "name": "Cucumber",
+    "category": "Vegetable",
+    "per_g": 300,
+    "calories_kcal": 45.0,
+    "protein_g": 2.0,
+    "carbs_g": 11.0,
+    "fats_g": 0.3
+  },
+  {
+    "name": "Onion",
+    "category": "Vegetable",
+    "per_g": 110,
+    "calories_kcal": 44.0,
+    "protein_g": 1.2,
+    "carbs_g": 10.3,
+    "fats_g": 0.1
+  },
+  {
+    "name": "Garlic",
+    "category": "Vegetable",
+    "per_g": 3,
+    "calories_kcal": 4.5,
+    "protein_g": 0.2,
+    "carbs_g": 1.0,
+    "fats_g": 0.0
+  },
+  {
+    "name": "Cauliflower",
+    "category": "Vegetable",
+    "per_g": 107,
+    "calories_kcal": 27.0,
+    "protein_g": 2.1,
+    "carbs_g": 5.3,
+    "fats_g": 0.3
+  },
+  {
+    "name": "Bell Pepper",
+    "category": "Vegetable",
+    "per_g": 119,
+    "calories_kcal": 24.0,
+    "protein_g": 1.0,
+    "carbs_g": 5.5,
+    "fats_g": 0.2
+  },
+  {
+    "name": "Cabbage",
+    "category": "Vegetable",
+    "per_g": 89,
+    "calories_kcal": 22.0,
+    "protein_g": 1.1,
+    "carbs_g": 5.2,
+    "fats_g": 0.1
+  },
+  {
+    "name": "Green Peas",
+    "category": "Vegetable",
+    "per_g": 100,
+    "calories_kcal": 81.0,
+    "protein_g": 5.4,
+    "carbs_g": 14.5,
+    "fats_g": 0.4
+  },
+  {
+    "name": "Pumpkin",
+    "category": "Vegetable",
+    "per_g": 116,
+    "calories_kcal": 22.0,
+    "protein_g": 1.0,
+    "carbs_g": 5.2,
+    "fats_g": 0.1
+  },
+  {
+    "name": "Beetroot",
+    "category": "Vegetable",
+    "per_g": 82,
+    "calories_kcal": 36.0,
+    "protein_g": 1.4,
+    "carbs_g": 8.0,
+    "fats_g": 0.1
+  },
+  {
+    "name": "Brinjal (Eggplant)",
+    "category": "Vegetable",
+    "per_g": 82,
+    "calories_kcal": 20.0,
+    "protein_g": 0.8,
+    "carbs_g": 4.8,
+    "fats_g": 0.1
+  },
+  {
+    "name": "Okra (Ladyfinger)",
+    "category": "Vegetable",
+    "per_g": 100,
+    "calories_kcal": 33.0,
+    "protein_g": 1.9,
+    "carbs_g": 7.0,
+    "fats_g": 0.2
+  },
+  {
+    "name": "Green Beans",
+    "category": "Vegetable",
+    "per_g": 100,
+    "calories_kcal": 31.0,
+    "protein_g": 1.8,
+    "carbs_g": 7.0,
+    "fats_g": 0.1
+  },
+  {
+    "name": "Mushroom",
+    "category": "Vegetable",
+    "per_g": 96,
+    "calories_kcal": 22.0,
+    "protein_g": 3.1,
+    "carbs_g": 3.3,
+    "fats_g": 0.3
+  },
+  {
+    "name": "Corn",
+    "category": "Vegetable",
+    "per_g": 90,
+    "calories_kcal": 86.0,
+    "protein_g": 3.2,
+    "carbs_g": 19.0,
+    "fats_g": 1.2
+  },
+  {
+    "name": "Chicken Breast (Cooked)",
+    "category": "Meat",
+    "per_g": 100,
+    "calories_kcal": 165.0,
+    "protein_g": 31.0,
+    "carbs_g": 0.0,
+    "fats_g": 3.6
+  },
+  {
+    "name": "Chicken Thigh (Cooked)",
+    "category": "Meat",
+    "per_g": 100,
+    "calories_kcal": 209.0,
+    "protein_g": 26.0,
+    "carbs_g": 0.0,
+    "fats_g": 10.9
+  },
+  {
+    "name": "Mutton (Cooked)",
+    "category": "Meat",
+    "per_g": 100,
+    "calories_kcal": 250.0,
+    "protein_g": 25.6,
+    "carbs_g": 0.0,
+    "fats_g": 16.0
+  },
+  {
+    "name": "Beef (Cooked)",
+    "category": "Meat",
+    "per_g": 100,
+    "calories_kcal": 250.0,
+    "protein_g": 26.0,
+    "carbs_g": 0.0,
+    "fats_g": 15.0
+  },
+  {
+    "name": "Pork (Cooked)",
+    "category": "Meat",
+    "per_g": 100,
+    "calories_kcal": 242.0,
+    "protein_g": 27.0,
+    "carbs_g": 0.0,
+    "fats_g": 14.0
+  },
+  {
+    "name": "Fish (Rohu, Cooked)",
+    "category": "Seafood",
+    "per_g": 100,
+    "calories_kcal": 97.0,
+    "protein_g": 16.6,
+    "carbs_g": 0.0,
+    "fats_g": 2.9
+  },
+  {
+    "name": "Salmon (Cooked)",
+    "category": "Seafood",
+    "per_g": 100,
+    "calories_kcal": 208.0,
+    "protein_g": 20.4,
+    "carbs_g": 0.0,
+    "fats_g": 13.4
+  },
+  {
+    "name": "Tuna (Canned)",
+    "category": "Seafood",
+    "per_g": 100,
+    "calories_kcal": 132.0,
+    "protein_g": 28.0,
+    "carbs_g": 0.0,
+    "fats_g": 1.3
+  },
+  {
+    "name": "Shrimp (Cooked)",
+    "category": "Seafood",
+    "per_g": 100,
+    "calories_kcal": 99.0,
+    "protein_g": 24.0,
+    "carbs_g": 0.2,
+    "fats_g": 0.3
+  },
+  {
+    "name": "Egg (Boiled)",
+    "category": "Protein",
+    "per_g": 50,
+    "calories_kcal": 78.0,
+    "protein_g": 6.3,
+    "carbs_g": 0.6,
+    "fats_g": 5.3
+  },
+  {
+    "name": "Egg White",
+    "category": "Protein",
+    "per_g": 33,
+    "calories_kcal": 17.0,
+    "protein_g": 3.6,
+    "carbs_g": 0.2,
+    "fats_g": 0.1
+  },
+  {
+    "name": "Paneer",
+    "category": "Dairy",
+    "per_g": 100,
+    "calories_kcal": 265.0,
+    "protein_g": 18.3,
+    "carbs_g": 1.2,
+    "fats_g": 20.8
+  },
+  {
+    "name": "Tofu",
+    "category": "Protein",
+    "per_g": 100,
+    "calories_kcal": 76.0,
+    "protein_g": 8.0,
+    "carbs_g": 1.9,
+    "fats_g": 4.8
+  },
+  {
+    "name": "Milk (Whole)",
+    "category": "Dairy",
+    "per_g": 244,
+    "calories_kcal": 149.0,
+    "protein_g": 7.7,
+    "carbs_g": 12.0,
+    "fats_g": 8.0
+  },
+  {
+    "name": "Curd (Yogurt)",
+    "category": "Dairy",
+    "per_g": 100,
+    "calories_kcal": 60.0,
+    "protein_g": 3.5,
+    "carbs_g": 4.7,
+    "fats_g": 3.3
+  },
+  {
+    "name": "Cheese (Cheddar)",
+    "category": "Dairy",
+    "per_g": 28,
+    "calories_kcal": 113.0,
+    "protein_g": 7.0,
+    "carbs_g": 0.9,
+    "fats_g": 9.3
+  },
+  {
+    "name": "Butter",
+    "category": "Dairy",
+    "per_g": 14,
+    "calories_kcal": 102.0,
+    "protein_g": 0.1,
+    "carbs_g": 0.0,
+    "fats_g": 11.5
+  },
+  {
+    "name": "Ghee",
+    "category": "Dairy",
+    "per_g": 13,
+    "calories_kcal": 112.0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fats_g": 12.7
+  },
+  {
+    "name": "Rice (Cooked)",
+    "category": "Grain",
+    "per_g": 158,
+    "calories_kcal": 205.0,
+    "protein_g": 4.3,
+    "carbs_g": 44.5,
+    "fats_g": 0.4
+  },
+  {
+    "name": "Brown Rice (Cooked)",
+    "category": "Grain",
+    "per_g": 195,
+    "calories_kcal": 216.0,
+    "protein_g": 5.0,
+    "carbs_g": 45.0,
+    "fats_g": 1.8
+  },
+  {
+    "name": "Chapati (Roti)",
+    "category": "Grain",
+    "per_g": 40,
+    "calories_kcal": 104.0,
+    "protein_g": 3.1,
+    "carbs_g": 18.0,
+    "fats_g": 2.5
+  },
+  {
+    "name": "Bread (White)",
+    "category": "Grain",
+    "per_g": 25,
+    "calories_kcal": 66.0,
+    "protein_g": 2.3,
+    "carbs_g": 12.6,
+    "fats_g": 0.8
+  },
+  {
+    "name": "Bread (Whole Wheat)",
+    "category": "Grain",
+    "per_g": 28,
+    "calories_kcal": 69.0,
+    "protein_g": 3.6,
+    "carbs_g": 11.6,
+    "fats_g": 1.0
+  },
+  {
+    "name": "Oats",
+    "category": "Grain",
+    "per_g": 40,
+    "calories_kcal": 150.0,
+    "protein_g": 5.3,
+    "carbs_g": 27.0,
+    "fats_g": 2.6
+  },
+  {
+    "name": "Quinoa (Cooked)",
+    "category": "Grain",
+    "per_g": 185,
+    "calories_kcal": 222.0,
+    "protein_g": 8.1,
+    "carbs_g": 39.4,
+    "fats_g": 3.6
+  },
+  {
+    "name": "Pasta (Cooked)",
+    "category": "Grain",
+    "per_g": 140,
+    "calories_kcal": 221.0,
+    "protein_g": 8.1,
+    "carbs_g": 43.2,
+    "fats_g": 1.3
+  },
+  {
+    "name": "Noodles (Cooked)",
+    "category": "Grain",
+    "per_g": 140,
+    "calories_kcal": 190.0,
+    "protein_g": 5.6,
+    "carbs_g": 40.0,
+    "fats_g": 0.6
+  },
+  {
+    "name": "Idli",
+    "category": "Grain",
+    "per_g": 39,
+    "calories_kcal": 39.0,
+    "protein_g": 1.5,
+    "carbs_g": 8.0,
+    "fats_g": 0.2
+  },
+  {
+    "name": "Dosa",
+    "category": "Grain",
+    "per_g": 80,
+    "calories_kcal": 168.0,
+    "protein_g": 3.9,
+    "carbs_g": 28.0,
+    "fats_g": 4.5
+  },
+  {
+    "name": "Poha",
+    "category": "Grain",
+    "per_g": 150,
+    "calories_kcal": 250.0,
+    "protein_g": 4.5,
+    "carbs_g": 40.0,
+    "fats_g": 7.5
+  },
+  {
+    "name": "Upma",
+    "category": "Grain",
+    "per_g": 150,
+    "calories_kcal": 240.0,
+    "protein_g": 5.5,
+    "carbs_g": 35.0,
+    "fats_g": 8.0
+  },
+  {
+    "name": "Lentils (Dal, Cooked)",
+    "category": "Legume",
+    "per_g": 100,
+    "calories_kcal": 116.0,
+    "protein_g": 9.0,
+    "carbs_g": 20.1,
+    "fats_g": 0.4
+  },
+  {
+    "name": "Chickpeas (Chana, Cooked)",
+    "category": "Legume",
+    "per_g": 100,
+    "calories_kcal": 164.0,
+    "protein_g": 8.9,
+    "carbs_g": 27.4,
+    "fats_g": 2.6
+  },
+  {
+    "name": "Kidney Beans (Rajma, Cooked)",
+    "category": "Legume",
+    "per_g": 100,
+    "calories_kcal": 127.0,
+    "protein_g": 8.7,
+    "carbs_g": 22.8,
+    "fats_g": 0.5
+  },
+  {
+    "name": "Black Beans (Cooked)",
+    "category": "Legume",
+    "per_g": 100,
+    "calories_kcal": 132.0,
+    "protein_g": 8.9,
+    "carbs_g": 23.7,
+    "fats_g": 0.5
+  },
+  {
+    "name": "Soybean (Cooked)",
+    "category": "Legume",
+    "per_g": 100,
+    "calories_kcal": 173.0,
+    "protein_g": 16.6,
+    "carbs_g": 9.9,
+    "fats_g": 9.0
+  },
+  {
+    "name": "Peanuts",
+    "category": "Nuts",
+    "per_g": 28,
+    "calories_kcal": 161.0,
+    "protein_g": 7.3,
+    "carbs_g": 4.6,
+    "fats_g": 14.0
+  },
+  {
+    "name": "Almonds",
+    "category": "Nuts",
+    "per_g": 28,
+    "calories_kcal": 164.0,
+    "protein_g": 6.0,
+    "carbs_g": 6.1,
+    "fats_g": 14.2
+  },
+  {
+    "name": "Cashews",
+    "category": "Nuts",
+    "per_g": 28,
+    "calories_kcal": 157.0,
+    "protein_g": 5.2,
+    "carbs_g": 8.6,
+    "fats_g": 12.4
+  },
+  {
+    "name": "Walnuts",
+    "category": "Nuts",
+    "per_g": 28,
+    "calories_kcal": 185.0,
+    "protein_g": 4.3,
+    "carbs_g": 3.9,
+    "fats_g": 18.5
+  },
+  {
+    "name": "Pistachios",
+    "category": "Nuts",
+    "per_g": 28,
+    "calories_kcal": 159.0,
+    "protein_g": 5.7,
+    "carbs_g": 7.7,
+    "fats_g": 12.8
+  },
+  {
+    "name": "Chia Seeds",
+    "category": "Seeds",
+    "per_g": 28,
+    "calories_kcal": 138.0,
+    "protein_g": 4.7,
+    "carbs_g": 12.0,
+    "fats_g": 8.7
+  },
+  {
+    "name": "Flax Seeds",
+    "category": "Seeds",
+    "per_g": 28,
+    "calories_kcal": 150.0,
+    "protein_g": 5.1,
+    "carbs_g": 8.1,
+    "fats_g": 11.8
+  },
+  {
+    "name": "Sunflower Seeds",
+    "category": "Seeds",
+    "per_g": 28,
+    "calories_kcal": 165.0,
+    "protein_g": 5.8,
+    "carbs_g": 5.7,
+    "fats_g": 14.4
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "category": "Seeds",
+    "per_g": 28,
+    "calories_kcal": 151.0,
+    "protein_g": 7.0,
+    "carbs_g": 5.0,
+    "fats_g": 13.0
+  },
+  {
+    "name": "Pizza (Slice)",
+    "category": "Fast Food",
+    "per_g": 107,
+    "calories_kcal": 285.0,
+    "protein_g": 12.2,
+    "carbs_g": 35.7,
+    "fats_g": 10.4
+  },
+  {
+    "name": "Burger (Cheeseburger)",
+    "category": "Fast Food",
+    "per_g": 150,
+    "calories_kcal": 303.0,
+    "protein_g": 15.0,
+    "carbs_g": 30.0,
+    "fats_g": 14.0
+  },
+  {
+    "name": "French Fries",
+    "category": "Fast Food",
+    "per_g": 100,
+    "calories_kcal": 312.0,
+    "protein_g": 3.4,
+    "carbs_g": 41.0,
+    "fats_g": 15.0
+  },
+  {
+    "name": "Fried Chicken",
+    "category": "Fast Food",
+    "per_g": 100,
+    "calories_kcal": 246.0,
+    "protein_g": 19.0,
+    "carbs_g": 8.0,
+    "fats_g": 15.0
+  },
+  {
+    "name": "Samosa",
+    "category": "Snack",
+    "per_g": 60,
+    "calories_kcal": 262.0,
+    "protein_g": 3.5,
+    "carbs_g": 24.0,
+    "fats_g": 17.0
+  },
+  {
+    "name": "Pav Bhaji",
+    "category": "Fast Food",
+    "per_g": 300,
+    "calories_kcal": 400.0,
+    "protein_g": 9.0,
+    "carbs_g": 55.0,
+    "fats_g": 15.0
+  },
+  {
+    "name": "Biryani (Chicken)",
+    "category": "Main Course",
+    "per_g": 250,
+    "calories_kcal": 450.0,
+    "protein_g": 20.0,
+    "carbs_g": 55.0,
+    "fats_g": 15.0
+  },
+  {
+    "name": "Butter Chicken",
+    "category": "Main Course",
+    "per_g": 250,
+    "calories_kcal": 490.0,
+    "protein_g": 28.0,
+    "carbs_g": 12.0,
+    "fats_g": 35.0
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "category": "Main Course",
+    "per_g": 250,
+    "calories_kcal": 425.0,
+    "protein_g": 15.0,
+    "carbs_g": 15.0,
+    "fats_g": 33.0
+  },
+  {
+    "name": "Dal Makhani",
+    "category": "Main Course",
+    "per_g": 250,
+    "calories_kcal": 330.0,
+    "protein_g": 12.0,
+    "carbs_g": 30.0,
+    "fats_g": 18.0
+  },
+  {
+    "name": "Chole Bhature",
+    "category": "Main Course",
+    "per_g": 300,
+    "calories_kcal": 610.0,
+    "protein_g": 15.0,
+    "carbs_g": 75.0,
+    "fats_g": 27.0
+  },
+  {
+    "name": "Vada Pav",
+    "category": "Fast Food",
+    "per_g": 120,
+    "calories_kcal": 290.0,
+    "protein_g": 6.0,
+    "carbs_g": 40.0,
+    "fats_g": 12.0
+  },
+  {
+    "name": "Momos (Veg)",
+    "category": "Snack",
+    "per_g": 100,
+    "calories_kcal": 175.0,
+    "protein_g": 5.0,
+    "carbs_g": 30.0,
+    "fats_g": 4.0
+  },
+  {
+    "name": "Spring Roll",
+    "category": "Snack",
+    "per_g": 80,
+    "calories_kcal": 190.0,
+    "protein_g": 4.0,
+    "carbs_g": 22.0,
+    "fats_g": 9.0
+  },
+  {
+    "name": "Sushi Roll (California)",
+    "category": "Main Course",
+    "per_g": 150,
+    "calories_kcal": 255.0,
+    "protein_g": 9.0,
+    "carbs_g": 38.0,
+    "fats_g": 7.0
+  },
+  {
+    "name": "Rajma Chawal",
+    "category": "Meal",
+    "per_g": 350,
+    "calories_kcal": 430.0,
+    "protein_g": 14.0,
+    "carbs_g": 70.0,
+    "fats_g": 9.0
+  },
+  {
+    "name": "Dal Chawal",
+    "category": "Meal",
+    "per_g": 350,
+    "calories_kcal": 380.0,
+    "protein_g": 12.0,
+    "carbs_g": 68.0,
+    "fats_g": 6.0
+  },
+  {
+    "name": "Chole Chawal",
+    "category": "Meal",
+    "per_g": 350,
+    "calories_kcal": 420.0,
+    "protein_g": 13.0,
+    "carbs_g": 70.0,
+    "fats_g": 10.0
+  },
+  {
+    "name": "Kadhi Chawal",
+    "category": "Meal",
+    "per_g": 350,
+    "calories_kcal": 350.0,
+    "protein_g": 9.0,
+    "carbs_g": 55.0,
+    "fats_g": 10.0
+  },
+  {
+    "name": "Sambar Rice",
+    "category": "Meal",
+    "per_g": 350,
+    "calories_kcal": 340.0,
+    "protein_g": 9.0,
+    "carbs_g": 62.0,
+    "fats_g": 6.0
+  },
+  {
+    "name": "Curd Rice",
+    "category": "Meal",
+    "per_g": 300,
+    "calories_kcal": 300.0,
+    "protein_g": 8.0,
+    "carbs_g": 50.0,
+    "fats_g": 7.0
+  },
+  {
+    "name": "Chicken Biryani (Full Plate)",
+    "category": "Meal",
+    "per_g": 400,
+    "calories_kcal": 620.0,
+    "protein_g": 28.0,
+    "carbs_g": 75.0,
+    "fats_g": 22.0
+  },
+  {
+    "name": "Veg Biryani (Full Plate)",
+    "category": "Meal",
+    "per_g": 400,
+    "calories_kcal": 480.0,
+    "protein_g": 10.0,
+    "carbs_g": 75.0,
+    "fats_g": 15.0
+  },
+  {
+    "name": "Mutton Biryani (Full Plate)",
+    "category": "Meal",
+    "per_g": 400,
+    "calories_kcal": 650.0,
+    "protein_g": 26.0,
+    "carbs_g": 70.0,
+    "fats_g": 28.0
+  },
+  {
+    "name": "Butter Chicken with Naan",
+    "category": "Meal",
+    "per_g": 400,
+    "calories_kcal": 720.0,
+    "protein_g": 32.0,
+    "carbs_g": 55.0,
+    "fats_g": 42.0
+  },
+  {
+    "name": "Paneer Butter Masala with Roti",
+    "category": "Meal",
+    "per_g": 400,
+    "calories_kcal": 610.0,
+    "protein_g": 20.0,
+    "carbs_g": 55.0,
+    "fats_g": 36.0
+  },
+  {
+    "name": "Dal Makhani with Rice",
+    "category": "Meal",
+    "per_g": 400,
+    "calories_kcal": 560.0,
+    "protein_g": 16.0,
+    "carbs_g": 70.0,
+    "fats_g": 22.0
+  },
+  {
+    "name": "Chole Bhature (Full Plate)",
+    "category": "Meal",
+    "per_g": 350,
+    "calories_kcal": 610.0,
+    "protein_g": 15.0,
+    "carbs_g": 75.0,
+    "fats_g": 27.0
+  },
+  {
+    "name": "Pav Bhaji (Full Plate)",
+    "category": "Meal",
+    "per_g": 350,
+    "calories_kcal": 450.0,
+    "protein_g": 10.0,
+    "carbs_g": 60.0,
+    "fats_g": 18.0
+  },
+  {
+    "name": "Misal Pav",
+    "category": "Meal",
+    "per_g": 300,
+    "calories_kcal": 400.0,
+    "protein_g": 14.0,
+    "carbs_g": 50.0,
+    "fats_g": 15.0
+  },
+  {
+    "name": "Thali (Veg, North Indian)",
+    "category": "Meal",
+    "per_g": 500,
+    "calories_kcal": 700.0,
+    "protein_g": 18.0,
+    "carbs_g": 100.0,
+    "fats_g": 25.0
+  },
+  {
+    "name": "Thali (Non-Veg, Chicken)",
+    "category": "Meal",
+    "per_g": 500,
+    "calories_kcal": 800.0,
+    "protein_g": 35.0,
+    "carbs_g": 90.0,
+    "fats_g": 30.0
+  },
+  {
+    "name": "Masala Dosa (Full)",
+    "category": "Meal",
+    "per_g": 200,
+    "calories_kcal": 350.0,
+    "protein_g": 7.0,
+    "carbs_g": 55.0,
+    "fats_g": 12.0
+  },
+  {
+    "name": "Idli Sambar (3 pcs + sambar)",
+    "category": "Meal",
+    "per_g": 250,
+    "calories_kcal": 280.0,
+    "protein_g": 9.0,
+    "carbs_g": 50.0,
+    "fats_g": 5.0
+  },
+  {
+    "name": "Poha with Chai",
+    "category": "Meal",
+    "per_g": 250,
+    "calories_kcal": 300.0,
+    "protein_g": 6.0,
+    "carbs_g": 45.0,
+    "fats_g": 9.0
+  },
+  {
+    "name": "Egg Curry with Rice",
+    "category": "Meal",
+    "per_g": 350,
+    "calories_kcal": 480.0,
+    "protein_g": 18.0,
+    "carbs_g": 60.0,
+    "fats_g": 18.0
+  },
+  {
+    "name": "Fish Curry with Rice",
+    "category": "Meal",
+    "per_g": 350,
+    "calories_kcal": 420.0,
+    "protein_g": 22.0,
+    "carbs_g": 55.0,
+    "fats_g": 12.0
+  },
+  {
+    "name": "Chicken Curry with Roti (2 pcs)",
+    "category": "Meal",
+    "per_g": 350,
+    "calories_kcal": 500.0,
+    "protein_g": 30.0,
+    "carbs_g": 40.0,
+    "fats_g": 22.0
+  },
+  {
+    "name": "Mutton Curry with Rice",
+    "category": "Meal",
+    "per_g": 350,
+    "calories_kcal": 550.0,
+    "protein_g": 28.0,
+    "carbs_g": 50.0,
+    "fats_g": 25.0
+  },
+  {
+    "name": "Palak Paneer with Roti",
+    "category": "Meal",
+    "per_g": 350,
+    "calories_kcal": 480.0,
+    "protein_g": 16.0,
+    "carbs_g": 45.0,
+    "fats_g": 26.0
+  },
+  {
+    "name": "Aloo Paratha with Curd",
+    "category": "Meal",
+    "per_g": 250,
+    "calories_kcal": 400.0,
+    "protein_g": 9.0,
+    "carbs_g": 55.0,
+    "fats_g": 16.0
+  },
+  {
+    "name": "Rajma with Roti",
+    "category": "Meal",
+    "per_g": 350,
+    "calories_kcal": 400.0,
+    "protein_g": 15.0,
+    "carbs_g": 55.0,
+    "fats_g": 12.0
+  },
+  {
+    "name": "Grilled Chicken with Rice & Veggies",
+    "category": "Meal",
+    "per_g": 400,
+    "calories_kcal": 480.0,
+    "protein_g": 40.0,
+    "carbs_g": 45.0,
+    "fats_g": 12.0
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "category": "Meal",
+    "per_g": 300,
+    "calories_kcal": 380.0,
+    "protein_g": 30.0,
+    "carbs_g": 12.0,
+    "fats_g": 24.0
+  },
+  {
+    "name": "Vegetable Fried Rice with Manchurian",
+    "category": "Meal",
+    "per_g": 400,
+    "calories_kcal": 550.0,
+    "protein_g": 12.0,
+    "carbs_g": 75.0,
+    "fats_g": 20.0
+  }
+]
