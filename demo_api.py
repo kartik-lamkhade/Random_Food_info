@@ -7,7 +7,7 @@ from typing import Literal,Annotated
 import random
 from datasets import load_dataset
 
-app = FastAPI()
+app = FastAPI
 
 dataset = load_dataset("json", data_files="foods.json")
 
