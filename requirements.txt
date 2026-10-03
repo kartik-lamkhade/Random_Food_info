@@ -2,3 +2,4 @@ uvicorn
 datasets
 fastapi
 python-multipart
+pytest
