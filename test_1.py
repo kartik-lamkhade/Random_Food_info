@@ -33,6 +33,6 @@ def predict(file: UploadFile = File(...)):
         raise HTTPException(
             status_code=status.HTTP_404_NOT_FOUND, 
             detail="Not in valid format"
-        )
+        
     
     return result
