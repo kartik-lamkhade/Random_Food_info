@@ -17,6 +17,11 @@ def read_root():
 
 @app.post("/predict")
 def predict(file: UploadFile = File(...)):
+    if file == None:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST, 
+            detail="No file provided"
+        )
 
     sample = random.choice(dataset['train'])
 
