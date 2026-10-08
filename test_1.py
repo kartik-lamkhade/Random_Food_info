@@ -34,7 +34,7 @@ def predict(file: UploadFile = File(...)):
         "carbs_g": sample.get("carbs_g", 0.0),
         "fats_g": sample.get("fats_g", 0.0)
     }
-    if not result.values():
+    if not result.values
         raise HTTPException(
             status_code=status.HTTP_404_NOT_FOUND, 
             detail="Not in valid format"
