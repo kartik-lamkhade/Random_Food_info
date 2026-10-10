@@ -7,7 +7,7 @@ from typing import Literal, Annotated
 import random
 from datasets import load_dataset
 
-app = FastAPI
+app = FastAPI()
 
 dataset = load_dataset("json", data_files="foods.json")
 
@@ -23,7 +23,7 @@ def predict(file: UploadFile = File(...)):
             detail="No file provided"
         )
 
-    sample = random.choice(dataset['train'])  # Added closing bracket
+    sample = random.choice(dataset['train']) 
 
     result = {
         "name": sample.get("name", "Unknown"),
