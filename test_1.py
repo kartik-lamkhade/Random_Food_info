@@ -23,7 +23,7 @@ def predict(file: UploadFile = File(...)):
             detail="No file provided"
         )
 
-    sample = random.choice(dataset['train
+    sample = random.choice(dataset['train'])['data']
 
     result = {
         "name": sample.get("name", "Unknown"),
