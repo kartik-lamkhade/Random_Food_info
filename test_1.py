@@ -1,5 +1,5 @@
-from fastapi import FastAPI, File
-from fastapi import HTTPException, status, UploadFile
+from fastapi import FastAPI, File, UploadFile
+from fastapi import HTTPException, status
 from pydantic import BaseModel, Field
 import pickle
 from pydantic import BaseModel, Field
@@ -7,7 +7,7 @@ from typing import Literal, Annotated
 import random
 from datasets import load_dataset
 
-app = FastAPI
+app = FastAPI()
 
 dataset = load_dataset("json", data_files="foods.json")
 
